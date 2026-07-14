@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const botAnswers = {
         skills: "Lokesh is proficient in <strong>JavaScript/TypeScript</strong> (React, Next.js), <strong>Python</strong> (Flask, Machine Learning, NLP), <strong>Java</strong>, and <strong>SQL/MongoDB</strong> query optimization.",
         internship: "Lokesh completed software/data internships at <strong>Hexart.in</strong> and <strong>1stop.ai</strong>. He is actively seeking Full-Time software engineer roles or B.Tech AI & ML internships starting immediately!",
-        projects: "His primary project is <strong>EcoScan</strong>—a waste classification app achieving 92% accuracy on test data. He also developed a <strong>CO2 Emission Tracker</strong> and a HIPAA-secure <strong>Form Health Records manager</strong>.",
+        projects: "His projects include <strong>EcoScan</strong> (a waste classification app with 92% accuracy), <strong>Rythu Chutneys</strong> (a freelance React/Node.js e-commerce website), <strong>CO2 Tracker</strong>, and <strong>Form Health</strong> (a HIPAA-secure records manager).",
         contact: "You can reach Lokesh directly at <a href='mailto:mekalalokesh40@gmail.com'><strong>mekalalokesh40@gmail.com</strong></a> or call <a href='tel:+917207324983'><strong>+91 72073 24983</strong></a>. Alternatively, use the contact form on the left!"
     };
 

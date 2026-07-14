@@ -1047,6 +1047,10 @@ canvas {
     background: linear-gradient(135deg, #fc466b 0%, #3f5efb 100%);
 }
 
+.bg-gradient-rythu {
+    background: linear-gradient(135deg, #f12711 0%, #f5af19 100%);
+}
+
 .project-overlay {
     position: absolute;
     top: 0;
