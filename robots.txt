@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lokesh-portfolio-k812.onrender.com/sitemap.xml
